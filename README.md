@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bayuprathama
-- 👀 I’m interested in frontend development, maybe backend & mobile development in the future
-- 🌱 I’m currently learning ReactJS, NextJS, SvelteJS
+- 👋 Hi, I’m @bayuprathama, based on Bali, Indonesia
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently learning Next.js, Astro, and SvelteKit
 - 📫 How to reach me > email: dev.bayuprathama@gmail.com
 
 <!---
